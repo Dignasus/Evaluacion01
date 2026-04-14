@@ -104,6 +104,14 @@ nav a:hover {
     object-fit: cover;
 }
 
+.card h3 {
+    margin: 10px;
+}
+
+.card p, .card strong {
+    margin: 0 10px;
+}
+
 .footer {
     text-align: center;
     padding: 20px;
