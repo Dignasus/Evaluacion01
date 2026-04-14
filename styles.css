@@ -134,6 +134,8 @@ nav a:hover {
     background-color: #f2f2f2;
     padding: 30px;
     text-align: center;
+    color: #2d0c57;
+    font-weight: bold;
 }
 
 .form-vuelo {
@@ -160,6 +162,6 @@ nav a:hover {
     border-radius: 5px;
 }
 
-h2 {
+h2, .ofertas {
     color: #2d0c57;
 }
